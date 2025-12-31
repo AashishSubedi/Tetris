@@ -1,5 +1,8 @@
 # 🎮 Tetris (Pygame) — Desktop & Web (GitHub Pages)
 
+## ▶️ Play Online
+🎮 **Play here:** https://aashishsubedi.github.io/Tetris/
+
 A polished **Tetris clone built with Pygame**, designed to run on both **desktop** and **the web**.
 
 ✅ Works on **Windows / macOS / Linux**  
